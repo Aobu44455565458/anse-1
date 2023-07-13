@@ -24,9 +24,9 @@ export default defineConfig({
       registerType: 'autoUpdate',
       injectRegister: 'inline',
       manifest: {
-        name: 'Anse',
-        short_name: 'Anse',
-        description: 'Anse is a fully optimized UI for AI Chats.',
+        name: 'Aobu',
+        short_name: 'Aobu',
+        description: 'Aobu is a fully optimized UI for AI Chats.',
         theme_color: '#101010',
         background_color: '#ffffff',
         icons: [
